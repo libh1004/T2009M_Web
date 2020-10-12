@@ -1,0 +1,49 @@
+body{
+    background-color: #f2f2f2;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 600px;
+    margin: auto;
+    font-size: 14px;
+    width: 1.25;
+
+}
+div {
+    border-bottom: 1px red;
+    border-bottom-style: dashed;
+    float: right;
+    clear: both;
+}
+div style{
+    border-bottom: 1px red;
+    border-bottom-style: dashed;
+}
+div1 {
+    text-decoration: underline;
+    color: red;
+}
+div2 {
+    text-decoration: underline;
+    color: red;
+}
+div3 {
+    text-decoration: underline;
+    color: red;
+}
+div4 {
+    text-decoration: underline;
+    color: red;
+}
+div5 {
+    text-decoration: underline;
+    color: red;
+}
+img{
+    float: left;
+}
+p{
+    clear: both;
+}
+
+
+
