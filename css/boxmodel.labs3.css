@@ -1,0 +1,38 @@
+*{
+
+}
+body{
+    font-size: 14px;
+    line-height: 1.25;
+    font-weight: normal;
+    font-family:  'Roboto', sans-serif;
+    width: 998px;
+    margin: auto;
+    border: 1px solid aliceblue;
+}
+#d1{
+    float: left;
+    background-color: #b9c2cb;
+    width: 100%;
+    margin-bottom: 35px;
+    padding: 24px;
+    text-align: center;
+
+}
+#d2{
+    background-color: #e7e7e7;
+    float: left;
+    width: 22%;
+    margin: -152px 20px 20px 20px;
+    padding: 22px;
+}
+#d3{
+    background-color: #ffffff;
+    float: left;
+    width: 48%;
+}
+div img {
+    border-radius: 1000px;
+
+
+}
