@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18059889-9994-41ae-8937-1852eefcd082" name="Default Changelist" comment="" />
+    <list default="true" id="18059889-9994-41ae-8937-1852eefcd082" name="Default Changelist" comment="nop btvn2">
+      <change afterPath="$PROJECT_DIR$/Session5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btvn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/as.btvn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/boxmodel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/boxmodel2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/5bCrnA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/7ccb010d8fddc4bcd84587ef3c34d100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/Untitled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/images (17).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/images (18).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sesion 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session2_demo css.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTVN 2.Assignment2.html" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN 2.Assignment2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab S4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab S4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/app.css.ass2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.css.ass2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +33,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iZrX2z9WZl0c6AAI8YtU4TF02M" />
   <component name="ProjectViewState">
@@ -23,7 +49,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/media" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -35,8 +62,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\This PC\t2009m\html\media" />
       <recent name="C:\Users\This PC\t2009m\html\imgs" />
+      <recent name="C:\Users\This PC\t2009m\html\media" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -48,7 +75,62 @@
       <option name="presentableId" value="Default" />
       <updated>1602125991805</updated>
       <workItem from="1602125993010" duration="4982000" />
+      <workItem from="1602131037633" duration="2016000" />
+      <workItem from="1602148539475" duration="8301000" />
+      <workItem from="1602199193666" duration="3183000" />
+      <workItem from="1602249575403" duration="4032000" />
+      <workItem from="1602292952989" duration="10993000" />
+      <workItem from="1602321100864" duration="4759000" />
+      <workItem from="1602377506930" duration="10785000" />
+      <workItem from="1602463233778" duration="11882000" />
+      <workItem from="1602492338512" duration="6548000" />
+      <workItem from="1602512113157" duration="4039000" />
+      <workItem from="1602542736520" duration="3279000" />
+      <workItem from="1602552325116" duration="13490000" />
+      <workItem from="1602591902096" duration="6787000" />
+      <workItem from="1602641148728" duration="12360000" />
+      <workItem from="1602724811839" duration="12521000" />
+      <workItem from="1602755231505" duration="612000" />
+      <workItem from="1602771459809" duration="2122000" />
+      <workItem from="1602810018885" duration="23611000" />
+      <workItem from="1602888506664" duration="3037000" />
+      <workItem from="1602895927507" duration="12305000" />
+      <workItem from="1602984493317" duration="6176000" />
+      <workItem from="1603010424816" duration="4880000" />
+      <workItem from="1603032325401" duration="5954000" />
+      <workItem from="1603072209025" duration="9257000" />
+      <workItem from="1603113297561" duration="7562000" />
+      <workItem from="1603147989108" duration="1674000" />
     </task>
+    <task id="LOCAL-00001" summary="nop bai">
+      <created>1602131179883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602131179883</updated>
+    </task>
+    <task id="LOCAL-00002" summary="nop btvn1">
+      <created>1602251157430</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602251157430</updated>
+    </task>
+    <task id="LOCAL-00003" summary="nop btvn2">
+      <created>1602545585418</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602545585418</updated>
+    </task>
+    <task id="LOCAL-00004" summary="nop btvn3">
+      <created>1602647964342</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602647964343</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -56,5 +138,46 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nop bai" />
+    <MESSAGE value="nop btvn1" />
+    <MESSAGE value="nop btvn2" />
+    <MESSAGE value="nop btvn3" />
+    <option name="LAST_COMMIT_MESSAGE" value="nop btvn3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602463812280">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1602463812280" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602862898787">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602862898787" />
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1602725919355">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602725919355" />
+    <state x="136" y="50" key="DiffContextDialog" timestamp="1602725841435">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="136" y="50" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1602725841435" />
+    <state x="468" y="43" key="RollbackChangesDialog" timestamp="1602903559883">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="468" y="43" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602903559883" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1602647975055">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602647975055" />
+    <state x="458" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602406205165">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="458" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1602406205165" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1602832957879">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1602832957879" />
   </component>
 </project>
