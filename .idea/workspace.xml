@@ -1,28 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="18059889-9994-41ae-8937-1852eefcd082" name="Default Changelist" comment="nop btvn2">
-      <change afterPath="$PROJECT_DIR$/Session5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btvn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/as.btvn.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/boxmodel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/boxmodel2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/5bCrnA.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/7ccb010d8fddc4bcd84587ef3c34d100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/Untitled.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/images (17).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/images (18).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sesion 4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session2_demo css.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BTVN 2.Assignment2.html" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN 2.Assignment2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab S4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab S4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/app.css.ass2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.css.ass2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/css/brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/css/brands.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/css/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/css/regular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/css/solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/css/solid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/css/svg-with-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/css/svg-with-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/css/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/css/v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontawesome/fontawesome-free-5.15.1-web/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/dist/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/.jscsrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/affix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/unit/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/unit/affix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/unit/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/unit/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/unit/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/unit/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/unit/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/unit/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/unit/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/unit/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/unit/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/unit/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/vendor/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/visual/affix-with-sticky-footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/visual/affix.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/visual/alert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/visual/button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/visual/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/visual/collapse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/visual/dropdown.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/visual/modal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/visual/popover.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/visual/scrollspy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/visual/tab.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tests/visual/tooltip.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap-3.4.1/js/transition.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTVN 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +139,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -62,6 +152,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\HTML_Study\Git_Projects\BKT BNGW &amp; BSJ\T2009M_Web\imgs" />
+      <recent name="D:\HTML_Study\Git_Projects\BKT BNGW &amp; BSJ\T2009M_Web" />
+      <recent name="D:\HTML_Study\Git_Projects\BKT BNGW &amp; BSJ\T2009M_Web\fontawesome" />
       <recent name="C:\Users\This PC\t2009m\html\imgs" />
       <recent name="C:\Users\This PC\t2009m\html\media" />
     </key>
@@ -101,6 +194,7 @@
       <workItem from="1603072209025" duration="9257000" />
       <workItem from="1603113297561" duration="7562000" />
       <workItem from="1603147989108" duration="1674000" />
+      <workItem from="1606441163191" duration="303000" />
     </task>
     <task id="LOCAL-00001" summary="nop bai">
       <created>1602131179883</created>
@@ -138,6 +232,17 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nop bai" />
